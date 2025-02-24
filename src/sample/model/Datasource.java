@@ -4,9 +4,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by timbuchalka on 9/12/16.
- */
 public class Datasource {
 
     public static final String DB_NAME = "music.db";
