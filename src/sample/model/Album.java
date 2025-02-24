@@ -3,9 +3,6 @@ package sample.model;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 
-/**
- * Created by timbuchalka on 9/12/16.
- */
 public class Album {
 
     private SimpleIntegerProperty id;
